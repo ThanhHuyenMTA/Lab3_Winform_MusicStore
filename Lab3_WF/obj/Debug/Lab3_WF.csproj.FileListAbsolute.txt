@@ -1,0 +1,13 @@
+D:\A.ThucTap_FPT\Demo\Lab3_WF\Lab3_WF\bin\Debug\Lab3_WF.exe.config
+D:\A.ThucTap_FPT\Demo\Lab3_WF\Lab3_WF\bin\Debug\Lab3_WF.exe
+D:\A.ThucTap_FPT\Demo\Lab3_WF\Lab3_WF\bin\Debug\Lab3_WF.pdb
+D:\A.ThucTap_FPT\Demo\Lab3_WF\Lab3_WF\obj\Debug\Lab3_WF.Form1.resources
+D:\A.ThucTap_FPT\Demo\Lab3_WF\Lab3_WF\obj\Debug\Lab3_WF.Properties.Resources.resources
+D:\A.ThucTap_FPT\Demo\Lab3_WF\Lab3_WF\obj\Debug\Lab3_WF.csproj.GenerateResource.Cache
+D:\A.ThucTap_FPT\Demo\Lab3_WF\Lab3_WF\obj\Debug\Lab3_WF.exe
+D:\A.ThucTap_FPT\Demo\Lab3_WF\Lab3_WF\obj\Debug\Lab3_WF.pdb
+D:\A.ThucTap_FPT\Demo\Lab3_WF\Lab3_WF\obj\Debug\Lab3_WF.ShopingUC.resources
+D:\A.ThucTap_FPT\Demo\Lab3_WF\Lab3_WF\obj\Debug\Lab3_WF.Shipping.resources
+D:\A.ThucTap_FPT\Demo\Lab3_WF\Lab3_WF\obj\Debug\Lab3_WF.ReportUC.resources
+D:\A.ThucTap_FPT\Demo\Lab3_WF\Lab3_WF\obj\Debug\Lab3_WF.AlbumUC.resources
+D:\A.ThucTap_FPT\Demo\Lab3_WF\Lab3_WF\obj\Debug\Lab3_WF.csprojResolveAssemblyReference.cache

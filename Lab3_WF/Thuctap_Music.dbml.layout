@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Thuctap_Music">
+  <DataContextMoniker Name="/Thuctap_MusicDataContext" />
+  <nestedChildShapes>
+    <classShape Id="f0bc8ce2-f221-41e8-8c59-d3fc3e0dc667" absoluteBounds="0.75, 0.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/Thuctap_MusicDataContext/Album" />
+      <nestedChildShapes>
+        <elementListCompartment Id="edf0fdd1-4e70-4aac-acbf-4f4a6c022f75" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9fe71739-a8a2-4098-b8a1-93e28b8c4242" absoluteBounds="3.75, 0.75, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/Thuctap_MusicDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="80c82126-462a-4f7a-a631-56cfef988c47" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ebc7f3da-c6b1-44dd-af48-b76169e2b273" absoluteBounds="0.75, 4.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/Thuctap_MusicDataContext/Artist" />
+      <nestedChildShapes>
+        <elementListCompartment Id="35741d26-931a-4ddb-a417-c42ed4921c08" absoluteBounds="0.765, 5.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c4f26232-5c2c-4282-b5b1-77928a0fb7bc" absoluteBounds="3.75, 4.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/Thuctap_MusicDataContext/Genre" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c819deaf-d95e-4c28-9817-11678021b2f7" absoluteBounds="3.765, 5.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="72cb1b41-6eea-4844-a166-bb518a3e3add" absoluteBounds="6.75, 0.75, 2, 1.7708968098958329">
+      <DataClassMoniker Name="/Thuctap_MusicDataContext/OrdeDetal" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ce1a6c8e-e9a6-43b5-b19d-3b43f5b96e74" absoluteBounds="6.765, 1.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f842605f-a49c-4ea4-9e0c-17ca735cea11" absoluteBounds="6.75, 3.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/Thuctap_MusicDataContext/Order" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6c011961-a75a-4145-b0a8-3cb574506f1e" absoluteBounds="6.765, 4.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
